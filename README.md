@@ -1,4 +1,4 @@
-# 🚀 FiveM Offsets & Native References
+# 🚀 FiveM Offsets & Native References Get free 👉 **[Discord](https://discord.gg/YOUR_INVITE_CODE)**
 
 Welcome to the **Free FiveM Offsets** – a free and actively maintained repository for internal and external offsets used in reverse engineering, modding, and cheat development in **FiveM**.
 
