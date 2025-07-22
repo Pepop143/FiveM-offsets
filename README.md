@@ -22,7 +22,7 @@ Welcome to the **Free FiveM Offsets** – a free and actively maintained reposit
 ## 📷 Screenshots
 
 <img src="img/mm.png" width="600" height="400">
-<img src="img/mmm.png" width="600" height="400">
+<img src="img/mmm.png" width="600" height="800">
 
 ---
 
