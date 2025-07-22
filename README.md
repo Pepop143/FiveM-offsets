@@ -1,12 +1,12 @@
-# 🚀 FiveM Offsets & Native References Get free 👉 **[Discord](https://discord.gg/YOUR_INVITE_CODE)**
+# 🚀 FiveM Offsets & Native References Get free 👉 **[Discord](https://discord.gg/Ab6XVwfE)**
 
 Welcome to the **Free FiveM Offsets** – a free and actively maintained repository for internal and external offsets used in reverse engineering, modding, and cheat development in **FiveM**.
 
-> ✅ Free to use — constantly updated — developer-friendly
+> ✅ Free to use — constantly updated — developer-friendly - PV Server
 
 ---
 ### 🌐 global offsets 1604 - 3407 !
-## 📌 Many Features !
+### 📌 Many Features !
 ### 🔒 Internal !
 ### 🌐 External !
 
@@ -29,7 +29,7 @@ Welcome to the **Free FiveM Offsets** – a free and actively maintained reposit
 ## 💬 Join Our Discord
 
 For updates, discussions, and support —  
-👉 **[Click here to join Discord](https://discord.gg/YOUR_INVITE_CODE)**
+👉 **[Click here to join Discord](https://discord.gg/Ab6XVwfE)**
 
 ---
 
